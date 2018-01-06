@@ -1,0 +1,16 @@
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\bin\Debug\StopGame.exe.config
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\bin\Debug\StopGame.exe
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\bin\Debug\StopGame.pdb
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame.csprojResolveAssemblyReference.cache
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\MainWindow.g.cs
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\App.g.cs
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame_MarkupCompile.cache
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame_MarkupCompile.lref
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\MainWindow.baml
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame.g.resources
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame.Properties.Resources.resources
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame.csproj.GenerateResource.Cache
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame.csproj.CoreCompileInputs.cache
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame.exe
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\StopGame.pdb
+C:\Users\Я\Documents\Visual Studio 2017\Projects\StopGame\StopGame\obj\Debug\App.baml
